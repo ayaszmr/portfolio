@@ -575,6 +575,11 @@ li {
   .contact-item {
     width: 70px;
   }
+  .contact-text {
+    font-weight: bold;
+    font-size: 30px;
+
+  }
 
   /* フッター */
   .footer .inner {
